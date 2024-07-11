@@ -1,7 +1,5 @@
 # Task2_leg-
-Design leg joints robot by Tinkercad . 
-
-
+Design leg joints robot by Tinkercad .
 
 in Path of Mechanical engneering we have task to Design a leg : 
 
